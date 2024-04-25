@@ -4,7 +4,7 @@ This project aims to detect leaf diseases on various plants using YOLOv3, YOLOv5
 
 🤗 [<b>Hugging Face link</b>](https://huggingface.co/spaces/umutkavakli/leaf-disease-detection) (Unfortunately, the code runs on CPU which makes it too slow.)
 
-<center>  <img src="/home/umut/leaf-disease-detection/.test-images/image.png" alt="Example"> </center>
+<center>  <img src=".test-images/image.png" alt="Example"> </center>
 
 ## Installation
 You can run this project on your local computer easily if you have GPU support.
